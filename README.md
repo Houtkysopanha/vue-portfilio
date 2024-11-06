@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# vue-portfilio
-=======
 # vue-porfilio
 
 ## Project setup
@@ -25,4 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 8533541 (init)
